@@ -4,6 +4,6 @@
 [submodule "pages/Lista-Supermercado"]
 	path = pages/Lista-Supermercado
 	url = https://github.com/sasugo1337/Lista-Supermercado.git
-[submodule "pages/Sing-in"]
-	path = pages/Sing-in
-	url = https://github.com/sasugo1337/Sing-in.git
+[submodule "pages/Sing-In"]
+	path = pages/Sing-In
+	url = https://github.com/sasugo1337/Sing-In.git
