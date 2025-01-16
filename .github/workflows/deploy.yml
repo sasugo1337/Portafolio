@@ -28,5 +28,6 @@ jobs:
               "git remote set-url origin https://$MY_GITHUB_TOKEN@github.com/sasugo1337/github-actions-start.git",
               "C:\\\"Program Files\"\\Git\\bin\\git.exe pull",
               "C:\\\"Program Files\"\\Git\\bin\\git.exe submodule update --init --recursive",
+              "C:\\\"Program Files\"\\Git\\bin\\git.exe submodule update --recursive --remote",
             ]' \
             --region us-east-2
