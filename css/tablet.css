@@ -1,0 +1,14 @@
+main {
+  width: 70vw;
+  padding: 0.625rem 2.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 0.625rem 0.0625rem black;
+}
+
+a {
+  font-size: 1.5rem;
+}
+
+img {
+  width: 1.875rem;
+}

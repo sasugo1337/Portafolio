@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+:root {
+  --light_green: #c3e678;
+  --light_red: #ff6464;
+  --light_yellow: #ffd782;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Rubik", serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.625rem 2.5rem;
+  background: linear-gradient(45deg, #ff6464, #ffd782, #c3e678); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+html {
+  font-size: 16px;
+}
+
+main {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 90vw;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 3.75rem;
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 0 0.625rem 0.0625rem black;
+  background: linear-gradient(315deg, #ff6464, #ffd782, #c3e678); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-weight: bold;
+  font-size: 1rem;
+  text-decoration: none;
+  color: black;
+}
+
+img {
+  width: 1.25rem;
+  margin: 0 0.25rem;
+}
