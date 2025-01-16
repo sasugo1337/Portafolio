@@ -1,9 +1,9 @@
+[submodule "pages/Formulario"]
+	path = pages/Formulario
+	url = https://github.com/sasugo1337/Formulario.git
 [submodule "pages/Lista-Supermercado"]
 	path = pages/Lista-Supermercado
 	url = https://github.com/sasugo1337/Lista-Supermercado.git
 [submodule "pages/Sing-in"]
 	path = pages/Sing-in
 	url = https://github.com/sasugo1337/Sing-in.git
-[submodule "pages/Formulario"]
-	path = pages/Formulario
-	url = https://github.com/sasugo1337/Formulario.git
