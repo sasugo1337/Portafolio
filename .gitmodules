@@ -7,3 +7,6 @@
 [submodule "pages/Sing-In"]
 	path = pages/Sing-In
 	url = https://github.com/sasugo1337/Sing-In.git
+[submodule "pages/Formulario_Colegio"]
+	path = pages/Formulario_Colegio
+	url = https://github.com/Neider-Kiux/Formulario-Colegio.git
