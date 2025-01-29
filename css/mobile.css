@@ -20,7 +20,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 0.625rem 2.5rem;
-  background: linear-gradient(45deg, #ff6464, #ffd782, #c3e678); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(45deg, var(--light_red), var(--light_yellow), var(--light_green)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 html {
@@ -45,7 +45,7 @@ button {
   border: none;
   border-radius: 1rem;
   box-shadow: 0 0 0.625rem 0.0625rem black;
-  background: linear-gradient(315deg, #ff6464, #ffd782, #c3e678); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(315deg, var(--light_red), var(--light_yellow), var(--light_green)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 a {
